@@ -33,7 +33,7 @@
     <h1>>>>PRACTICA<<<</h1>
       <h3><em>Lista de laboratorios:</em></h3>
     <ul>
-        <li><a href="https://tryhackme.com/room/openvpn" target="_blank">OpenVPN <em>""</em> </a> - Video ayuda: <a href="https://www.youtube.com/watch?v=DD-htO-XvP8" target="_blank">Ver Video</a></li>
+        <li><a href="https://tryhackme.com/room/openvpn" target="_blank">OpenVPN </a> <em>"tryhackme.com/room/openvpn"</em>  - Video ayuda: <a href="https://www.youtube.com/watch?v=DD-htO-XvP8" target="_blank">Ver Video</a></li>
       <a href="https://www.youtube.com/watch?v=DD-htO-XvP8" target="_blank">
        <img src="https://img.youtube.com/vi/DD-htO-XvP8/0.jpg" alt="video" style="width: 400px; height: 200;">      
         <li><a href="https://tryhackme.com/room/tutorial" target="_blank">Tutorial</a> <em>"tryhackme.com/room/tutorial"</em> </li>
